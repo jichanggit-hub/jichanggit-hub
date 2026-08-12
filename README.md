@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jichanggit-hub/jichanggit-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✈️ 机场GitHub
 
-Here are some ideas to get you started:
+**真实数据说话的机场（代理订阅）测评项目**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+晚高峰测速报告 · 流媒体解锁验证 · 每 GB 成本核算 · 跑路黑名单
+
+</div>
+
+---
+
+### 🚀 从这里开始
+
+| 入口 | 内容 |
+|---|---|
+| **[⚡ review](https://github.com/jichanggit-hub/review)** | **极速选机场速查表** — 排行榜、优惠码、官网直达，一页搞定 |
+| **[🌐 jichanggithub.com](https://jichanggithub.com)** | **博客主站** — 完整评测、测速原图、知识库与教程 |
+
+### 📌 我们在做什么
+
+市面上的机场测评大多只有两种：一种是纯广告，一种是只有结论没有证据。
+
+这个项目想做第三种——**把证据摆出来**：
+
+- 🌙 **只认晚高峰**：20:00–23:00 的数据才有意义，白天速度谁都好看
+- 📋 **来源标注**：家宽实测 / 运营方报告分得清清楚楚，不把别人的数据说成自己的
+- 💰 **每 GB 成本换算**：年付折算月均后再比，不用年付价冒充月付价
+- ⚠️ **敢发跑路名单**：2020 年至今 14 家已跑路机场存档，包括曾经的头部大机场
+- 🔒 **不接受付费排名**：联盟关系公开披露，佣金不影响排序
+
+### 🛡️ 无论你最后选谁，请记住三条
+
+> **① 坚持月付**，单次充值不超过 ¥100
+> **② 常备 2 家**机场，主力挂了随时切换
+> **③ 看到「终身套餐」直接拉黑**——这是跑路前最后的收割
+
+---
+
+🌐 **主站**：https://jichanggithub.com
+📮 **联系**：<jichanggithub@proton.me>（优惠码失效 / 数据纠错 / 跑路线索）
+
+<sub>本项目内容仅供学习与技术研究参考，请遵守所在地区相关法律法规。</sub>
